@@ -31,15 +31,19 @@ The top 3 categories are there in AWS:
 3. Saas(software as a service)
 
 AWS of history :
-1. In 2000, Amazon started developing the groundwork for AWS, recognizing the necessity for a more scalable infrastructure to bolster its operations.
+1. In 2000, Amazon started developing the groundwork for AWS
+
 2. In 2002, Amazon rolled out its initial web services, which included Amazon S3 (Simple Storage Service) for storage and Amazon SQS (Simple Queue Service) for messaging.
+
 3. In 2006, AWS officially launched with the introduction of Amazon S3 and Amazon EC2 (Elastic Compute Cloud).
+
 4. In 2007, AWS introduced Amazon SimpleDB and Amazon Elastic Block Store (EBS), expanding its database and storage services.
+
 5. In 2009, AWS continued to grow with the launch of Amazon CloudFront (a content delivery network) and Amazon VPC (Virtual Private Cloud), providing more flexibility and control over cloud resources.
 
-What is meant by DevOps?
+2Q. What is meant by DevOps?
 
-DevOps is a set of practices, principles, and cultural philosophies that aim to improve collaboration and communication between software development (Dev) and IT operations (Ops) teams.
+Ans: DevOps is a set of practices, principles, and cultural philosophies that aim to improve collaboration and communication between software development (Dev) and IT operations (Ops) teams.
 
 Feature of Devop's:
 
