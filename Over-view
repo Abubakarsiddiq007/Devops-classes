@@ -1,8 +1,11 @@
 #Today we have learned in the DevOps session about cloud computing and what are AWS and DevOps and its features
+
 1Q. What is cloud computing?
+
 Ans: Cloud computing means it delivers any server from anywhere users or clients can access the data storage from laptops, computers, tablets, mobiles, and phones.
-cloud computing can be run with the internet and it will allow any server, database, storage, software, and networking. it is designed for architectural and infrastructure models base. It means we can make beautiful infrastructure models that can be used for top MNC companies and International American companies like Google, Amazon, Microsoft, etc.
-it will be available for rent which means anyone can access it from multiple devices.
+cloud computing can be run with the internet and it will allow any server, database, storage, software, and networking.
+
+It will be available for rent which means anyone can access it from multiple devices.
 
 (Features of cloud computing):
 1. Reduce the data storage
@@ -15,9 +18,11 @@ it will be available for rent which means anyone can access it from multiple dev
 8. Most of the companies are working on cloud computing.
 
 2Q.What is meant by AWS?
-Ans: AWS(Amazon web service) is nothing but a service it means cloud computing, in aws has 200+service's. most of the common we are using nowadays is IAAS(infrastructure-as-a-service)
-Paas(platform-as-a-service)and software-as-a-service (SaaS) offerings. it provides a wide range of power to the computer and database, network, software, and server which will  allow 
+Ans: AWS(Amazon web service) is nothing but a service it means cloud computing, in aws has 200+service's.
+
+it provides a wide range of power to the computer and database, network, software, and server which will  allow 
 content delivery can easily pass without any interpretation.
+
 AWS is day by day updating or evolving in architecture for users and clients who can easily understand the basics of AWS services. 
 
 The top 3 categories are there in AWS:
