@@ -1,0 +1,44 @@
+#Today we have learned in the DevOps session about cloud computing and what are AWS and DevOps and its features
+1Q.What is cloud computing?
+Ans: Cloud computing means it delivers any server from anywhere users or clients can access the data storage from laptops, computers, tablets, mobiles, and phones.
+cloud computing can be run with the internet and it will allow any server, database, storage, software, and networking. it is designed for architectural and infrastructure models base. It means we can make beautiful infrastructure models that can be used for top MNC companies and International American companies like Google, Amazon, Microsoft, etc.
+it will be available for rent which means anyone can access it from multiple devices.
+
+(Features of cloud computing):
+1. Reduce the data storage
+2. Available in market
+3. Make a beautiful infrastructure model
+4. use for both clients and users 
+5. Easy access.
+6. we can create multiple accounts in cloud computing
+7. It will easily be understood by the user or client
+8. Most of the companies are working on cloud computing.
+
+2Q.What is meant by AWS?
+Ans: AWS(Amazon web service) is nothing but a service it means cloud computing, in aws has 200+service's are there. most of the common we are using nowadays is IAAS(infrastructure-as-a-service)
+Paas(platform-as-a-service)and software-as-a-service (SaaS) offerings. it provides a wide range of power to the computer and database, network, software, and server which will  allow 
+content delivery can easily pass without any interpretation.
+AWS is day by day updating or evolving in architecture for users and clients who can easily understand the basics of AWS services. 
+The top 3 categories are there in AWS:
+1. Iaas(infrastructure as a service)
+2. Paas(platform as a service)
+3. Saas(software as a service)
+
+AWS of history :
+1. In 2000, Amazon started developing the groundwork for AWS, recognizing the necessity for a more scalable infrastructure to bolster its operations.
+2. In 2002, Amazon rolled out its initial web services, which included Amazon S3 (Simple Storage Service) for storage and Amazon SQS (Simple Queue Service) for messaging.
+3. In 2006, AWS officially launches with the introduction of Amazon S3 and Amazon EC2 (Elastic Compute Cloud).
+4. In 2007, AWS introduces Amazon SimpleDB and Amazon Elastic Block Store (EBS), expanding its database and storage services.
+5. In 2009, AWS continues to grow with the launch of Amazon CloudFront (a content delivery network) and Amazon VPC (Virtual Private Cloud), providing more flexibility and control over cloud resources.
+
+What is meant by Devops ?
+
+DevOps is a set of practices, principles, and cultural philosophies that aim to improve collaboration and communication between software development (Dev) and IT operations (Ops) teams.
+
+Feature of Devop's:
+
+1.On-Demand Self-Service.
+2.Broad Network Access.
+3.Resource Pooling.
+4.Rapid Elasticity.
+5.Measured Service.
